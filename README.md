@@ -1,13 +1,16 @@
 # Eleni Kalkopoulou
 ## Android and web developer based in Thessaloniki, Greece
 
-![Bookstore Inventory Tracker App](/android_apps/2. book listing.png)
-Format: ![Alt Text](url)
+* 
+* ![Bookstore Inventory Tracker App](http://github.com/nelaka/android_InventoryApp)
 
-[Bookstore Inventory Tracker App](http://github.com/nelaka/android_InventoryApp)
+  <img src="android_apps/InventoryApp.png" width="40%"/>
 
+* [Guardian News Search App](http://github.com/nelaka/android_NewsApp)
+  
+  <img src=android_apps/NewsApp.png" width="40%"/>
 
-[Guardian News Search App](http://github.com/nelaka/android_NewsApp)
+* [Google Books Listing App](http://github.com/nelaka/android_BookListingApp)
 
-[Google Books Listing App](http://github.com/nelaka/android_BookListingApp)
+   <img src=android_apps/BookListingApp.png" width="40%"/>
 
